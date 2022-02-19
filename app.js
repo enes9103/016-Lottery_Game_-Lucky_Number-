@@ -45,6 +45,7 @@ sendButton.addEventListener("click", ()=>{
 
 });
 
+// refresh page
 giveNumber.addEventListener('mouseover',() => {
     window.location.reload(false);
 });
