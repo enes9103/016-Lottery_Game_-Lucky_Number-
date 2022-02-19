@@ -44,3 +44,7 @@ sendButton.addEventListener("click", ()=>{
     }
 
 });
+
+giveNumber.addEventListener('mouseover',() => {
+    window.location.reload(false);
+});
