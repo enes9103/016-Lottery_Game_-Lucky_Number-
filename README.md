@@ -27,7 +27,8 @@ This template doesn't rely on any external dependencies or services.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Project Outcome
-![Project gif](Animation.gif)
+![Project image](image1.jpg)
+![Project image](image2.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
